@@ -1,5 +1,10 @@
 # 麻瓜担保-全球首家数字货币第三方担保交易平台
 
+## Mike@Breaking Bad
+
+If you make a deal with somebody, you keep your word.
+<video src="https://dcdn.mugglepay.com/pay/media/videos/danbao-mv.mp4?t=1" controls="controls" width="100%">您的浏览器不支持播放该视频！</video>
+
 ## 为什么要走担保交易？
 
 现在的社会过于纷繁复杂了，互联网中更是充满了各种陷阱各种套路各种坑。须秉承着害人之心不可有，防人之心不可无的祖训！总之万事小心一点是没错的。等到上当受骗之后就只能追悔莫及了。即使我们可以通过法律途径去维权，但是其维权成本也是过于高昂，最后往往只能是选择妥协！只有通过担保交易，才能保障有效买家利益。
