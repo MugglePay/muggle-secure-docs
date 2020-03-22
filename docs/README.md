@@ -3,7 +3,8 @@
 ## Mike@Breaking Bad
 
 If you make a deal with somebody, you keep your word.
-<video src="https://dcdn.mugglepay.com/pay/media/videos/danbao-mv.mp4?t=1" controls="controls" width="100%">您的浏览器不支持播放该视频！</video>
+<video src="https://dcdn.mugglepay.com/pay/media/videos/danbaox.mp4" controls="controls" width="100%"></video>
+
 
 ## 为什么要走担保交易？
 
