@@ -1,57 +1,56 @@
-# 联系方式
+# Contact Information
 
-可在麻瓜宝账户中，填入您的联系邮箱。于此同时，欢迎邮件或者通过TG群联系我们。
-客服邮箱：business@mugglepay.com
+You can enter your contact email in your MugglePay account. At the same time, you are welcome to contact us through email or our Telegram group.
+Customer service email: business@mugglepay.com
 
-不要轻信陌生人，不要给陌生人转账！我们平台不做贷款，我们是交易担保！类似于淘宝网，不是贷款担保！信用担保！！
+Do not trust strangers and do not transfer money to strangers! Our platform does not provide loans; we provide transaction guarantees! Similar to Taobao, we are not a loan guarantee! It's a credit guarantee!
 
-## 免责声明
+## Disclaimer
 
-访问者在接受本服务之前，请务必仔细阅读本条款并同意本声明。访问者访问本网站的行为以及通过各类方式利用本网站的行为，都将被视作是对本声明全部内容的无异议的认可；如有异议，请立即跟本网站协商，并取得本网站的书面同意意见。
+Before accepting this service, visitors must carefully read and agree to this statement. The actions of visitors accessing this website and utilizing it through various means will be deemed as an acceptance of the entire content of this statement without objection. If there is any objection, please immediately consult with this website and obtain the written consent of this website.
 
-第一条 访问者在从事与本网站相关的所有行为(包括但不限于访问浏览，使用，转载，宣传介绍)时，必须以善意且谨慎的态度行事；访问者不得故意或者过失的损害或者弱化本网站的各类合法权利与利益，不得利用本网站以任何方式直接或者间接的从事违反护照所在国以及新加坡法律，国际公约以及社会公德的行为，且访问者应当恪守下述承诺：
+Article 1: When engaging in all activities related to this website (including but not limited to visiting, browsing, using, reposting, and promoting), visitors must act in good faith and caution. Visitors must not intentionally or negligently damage or weaken the various legal rights and interests of this website. Visitors must not engage, directly or indirectly, in behavior that violates the laws of the country of their passport and Singapore, international conventions, and social ethics. Visitors must abide by the following commitments:
 
-1，传输和利用信息符合护照所在国以及新加坡法律，国际公约的规定，符合公序良俗；
+1. Transmission and use of information in accordance with the laws of the country of their passport and Singapore, and international conventions, and in accordance with public order and good morals.
 
-2，不将本网站以及与之相关的网络服务用作非法用途以及非正当用途；
+2. Not using this website and related network services for illegal or improper purposes.
 
-3，不干扰和扰乱本网站以及与之相关的网络服务；
+3. Not interfering with and disrupting this website and related network services.
 
-4，遵守与本网站以及与之相关的网络服务的协议，规定，程序和惯例等。
+4. Complying with the agreements, regulations, procedures, and practices related to this website and its related network services.
 
-第二条 本网站担保交易为交易担保而非信用担保，只有买家将交易资金托管在麻瓜担保网的时候这个担保交易才有效的，一旦资金结算完毕，即可资金已经退回给买家或者支付给卖家，即表示担保交易已经完成，本站就没有再为任何一方向另外一方进行追偿的权利和义务。
+Article 2: This website guarantees transactions as transaction guarantees and not as credit guarantees. The guarantee transaction only becomes effective when the buyer entrusts the transaction funds to the MugglePay platform. Once the fund settlement is completed, it means that the guarantee transaction has been completed. The website is not obligated to recover from one party to another.
 
-第三条 因客户方泄露在本站即麻瓜担保网的账户导致的资金损失，本站不承担赔偿责任，因为客户与我司联系方式包括但不限于TG、微信、手机号、邮箱被他人盗用导致的资金损失，本站不承担赔偿责任。
+Article 3: This website shall not be liable for any losses caused by the leakage of customer's account information on this website, including the MugglePay platform. The website shall not be liable for any losses caused by the theft of customer's contact information, including but not limited to Telegram, WeChat, mobile phone number, and email.
 
-第四条 本网站所有交易仅代表作者买卖双方的观点，不代表本网站的观点和看法，与本网站立场无关，相关责任交易双方自负。
+Article 4: All transactions posted on this website represent the views of the individual buyers and sellers and do not represent the views of this website. This website bears no responsibility for the transactions between parties.
 
-第五条 本网站郑重提醒访问者，请在转载，上载或者下载有关作品时务必尊重该作品的版权，著作权；如果您发现有您未署名的作品，请立即和我们联系，我们会在第一时间加上您的署名或作相关处理。
+Article 5: This website solemnly reminds visitors to respect the copyrights and intellectual property rights of relevant works when reposting, uploading, or downloading such works. If you find any works that have not been attributed to you, please contact us immediately, and we will add your attribution or take appropriate action.
 
-第六条 未经本站同意，其他任何机构不得以任何形式侵犯我站版权，著作权，商标权，包括但不限于擅自复制，抄袭，非法使用或转载，或以任何方式建立作品镜像。
+Article 6: Without the consent of this website, no other organization shall infringe on the copyrights, intellectual property rights, and trademark rights of this website, including but not limited to unauthorized copying, plagiarism, illegal use, or reproduction, or any other way of establishing a work mirror.
 
-第七条 本网站所刊载的各类形式(包括但不仅限于文字，图片，图表)的作品仅供参考使用，并不代表本网站同意其说法或描述，仅为提供更多信息，也不构成任何投资建议。对于访问者根据本网站提供的信息所做出的一切行为，除非另有明确的书面承诺文件，否则本网站不承担任何形式的责任。
+Article 7: The works published in various forms on this website (including but not limited to text, pictures, and charts) are for reference only and do not represent the views or opinions of this website. They are provided for informational purposes only and do not constitute any investment advice. This website does not assume any form of responsibility for actions taken by visitors based on the information provided on this website, unless there is a clear written commitment document.
 
-第八条 当本网站以链接形式推荐其他网站内容时，本网站并不对这些网站或资源的可用性负责，且不保证从这些网站获取的任何内容，产品，服务或其他材料的真实性，合法性，对于任何因使用或信赖从此类网站或资源上获取的内容，产品，服务或其他材料而造成(或声称造成)的任何直接或间接损失，本网站均不承担任何责任。
+Article 8: When this website recommends the content of other websites in the form of links, this website is not responsible for the availability of these websites or resources, nor does it guarantee the authenticity and legality of any content, products, services, or other materials obtained from these websites. This website shall not be held liable for any direct or indirect losses caused by the use or reliance on content, products, services, or other materials obtained from such websites or resources, or claimed to be caused by them.
 
-第九条 访问者在本网站注册时提供的一些个人资料，本网站除您本人同意及第九条规定外不会将用户的任何资料以任何方式泄露给任何一方。
+Article 9: Some personal information provided by visitors during registration on this website will not be disclosed to any party in any way, except with the visitor's consent and as provided in Article 9.
 
-第十条 当政府部门，司法机关等依照法定程序要求本网站披露个人资料时，本网站将根据执法单位之要求或为公共安全之目的提供个人资料。在此情况下之任何披露，本网站均得免责。
+Article 10: When requested by government departments, judicial authorities, etc., in accordance with legal procedures, this website will provide personal information according to the requirements of law enforcement agencies or for the purpose of public safety. In such cases, this website shall be exempt from liability.
 
-第十一条 由于用户将个人密码告知他人或与他人共享注册账户，由此导致的任何个人资料泄露，本网站不负任何责任。
+Article 11: This website shall not be held responsible for any personal information disclosure resulting from users' disclosure of their passwords to others or sharing of registered accounts with others.
 
-第十二条 任何由于计算机问题，黑客攻击，计算机病毒侵入或发作，因政府管制而造成的暂时性关闭等影响网络正常经营的不可抗力而造成的个人资料泄露，丢失，被盗用或被窜改等，本网站均得免责。
+Article 12: This website shall be exempt from liability for any personal information disclosure, loss, theft, or alteration caused by computer problems, hacker attacks, computer virus intrusions or attacks, temporary closure due to government control, or other force majeure events affecting the normal operation of the network.
 
-第十三条 由于与本网站链接的其他网站所造成之个人资料泄露及由此而导致的任何法律争议和后果，本网站均得免责。
+Article 13: This website shall be exempt from liability for any legal disputes and consequences arising from personal information disclosure caused by linking to other websites.
 
-第十四条 本网站若因线路及非本公司控制范围外的硬件故障或其它不可抗力而导致暂停服务，于暂停服务期间造成的一切不便与损失，本网站不负任何责任。
+Article 14: This website shall not be held responsible for any inconvenience or loss caused by the temporary suspension of services due to network line or hardware failures beyond the control of this company.
 
-第十五条 域名因到期但未续费而引起的操作包括但不限于被删除，转移或被他人注册，中介网概不负责，亦不承担任何法律责任，一切损失由申请人自行负责。
+Article 15: MugglesNet is not responsible for any actions taken by applicants resulting from domain names expiring but not being renewed, including but not limited to deletion, transfer, or registration by others.
 
-第十六条 除本网站注明之服务条款外，其他一切因使用本网站而引致之任何意外，疏忽，诽谤，版权或知识产权侵犯及其所造成的损失(包括因下载而感染电脑病毒)，本网站概不负责，亦不承担任何法律责任。
+Article 16: In addition to the service terms stated on this website, this website shall not be held responsible for any accidents, negligence, defamation, copyright or intellectual property infringement, and the resulting losses (including computer virus infection caused by downloading), nor shall it bear any legal responsibility.
 
-第十七条 若因本网站产生任何诉诸于诉讼程序的法律争议，将以本网站所有者所在的法院为管辖法院。
+Article 17: If any legal disputes arise as a result of this website, the court where the owner of this website is located shall have jurisdiction.
 
-第十八条 本网站之声明以及其修改权，更新权及最终解释权均属Muggles公司所有。
+Article 18: The ownership of this website statement, including the right to modify, update, and interpret it, belongs to the Muggles company.
 
-第十九条 兹有以上网站法律声明即日起公布并生效，访问者须仔细阅读并同意本声明。访问者对本网站包括但不限于的访问浏览，利用，转载，宣传，链接等，均视为访问者同意本网站免责声明。
-
+Article 19: This legal statement of the website is effective immediately from the date of publication. Visitors must read and agree to this statement carefully. Visitors' actions on this website, including but not limited to visiting, browsing, using, reposting, promoting, and linking, are deemed as an agreement to this website's disclaimer."

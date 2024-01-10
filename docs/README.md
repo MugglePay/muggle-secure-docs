@@ -1,61 +1,33 @@
-# 麻瓜担保-全球首家数字货币第三方担保交易平台
+# Muggle Escrow Services - The world's first decentralized escrow services  for crypto currencies
 
-## Mike@Breaking Bad
+## Why choose escrow services?
 
-If you make a deal with somebody, you keep your word.
-<video src="https://dcdn.mugglepay.com/pay/media/videos/danbaox.mp4" controls="controls" width="100%"></video>
+Today's society is becoming increasingly complex, and the internet is filled with various traps, tricks, and pitfalls. We should always be wary and cautious, as the saying goes, "Beware of the person harboring evil intentions and never be without a guard against others." It's always better to be safe than sorry. Once we fall victim to fraud, we can only regret it. Although we can seek legal recourse to protect our rights, the cost of doing so is often prohibitively high, and we often end up compromising. Only through escrow services can we ensure the interests of effective buyers.
 
+When shopping on platforms like eBay, we often encounter situations where the seller's enthusiasm wanes after we make the payment. Their responses to our inquiries become less timely. Of course, in such cases, we can apply for a refund directly through eBay. However, if the transaction was conducted privately without any remarks, it becomes more troublesome. We cannot go to court over a few hundred or thousand yuan. Sometimes, we don't even have the contact information of the seller, making it impossible to forcefully demand a refund. Even if we manage to contact the seller, if they refuse to refund, we are left helpless, and in the end, we suffer the loss ourselves. Therefore, it's best to always keep control and opt for using a third-party escrow services platform instead of direct transfers.
 
-## 为什么要走担保交易？
+We all understand this reasoning, but many times we still fall victim to scams, not because we are unaware, but because we have no other options. Many scammers operate anonymously, and legal means often cannot resolve the issue. Only through institutional development can we make it difficult for criminals to conduct their wrongdoings.
 
-现在的社会过于纷繁复杂了，互联网中更是充满了各种陷阱各种套路各种坑。须秉承着害人之心不可有，防人之心不可无的祖训！总之万事小心一点是没错的。等到上当受骗之后就只能追悔莫及了。即使我们可以通过法律途径去维权，但是其维权成本也是过于高昂，最后往往只能是选择妥协！只有通过担保交易，才能保障有效买家利益。
+## Why not use PayPal or Alipay for escrow services?
 
-平时我们在淘宝购物的时候都可能会碰到这种情况，付款前顾客是上帝，咨询的各种问题回复的非常之快，态度好的不能再好，等买家付款之后我们会发现卖家的热情消失了。问题的回复不是那么及时了。
+Many netizens may ask, "Isn't there Paypal or Aliapy for escrow transactions?" That's correct, but you may have noticed that Aliapy only provides escrow services for products under Alibaba's umbrella. When we conduct transfers using Paypal, it does not offer escrow services. In other words, Paypal only provides escrow services for platforms like eBay and Tmall. Not everyone has a eBay store, and Tmall stores are even more limited. Moreover, many of our needs are low-frequency, and the escrow transactions on eBay follow standardized procedures, with customer service only intervening when disputes arise. Many eBay rules do not apply, and blindly applying eBay's user agreement often puts either the seller or the buyer at a disadvantage.
 
-<p align="center">
-  <img src="https://dcdn.mugglepay.com/pay/danbao/why1.png?t=1" width="70%" />
-</p>
+Currently, Chinese escrow services market is dominated solely by Aliapy, which only provides escrow services for platforms under Alibaba. It is difficult for Paypal to guarantee our interests when we do business with foreigners online. As a result, many of our personalized escrow services needs cannot be met, giving scammers an opportunity. However, this situation is about to change!
 
-当然这个时候我们还可以通过淘宝直接申请退款。那如果当时私下转账交易，而且没有任何备注，那么后续的麻烦就比较大了，我们不可能为了几百块钱，几千块钱去与卖家对簿公堂。有的甚至没有商家的联系方式，不可能找商家强行退款。就算我们找到了商家，对方不退款，我们也没办法，最终吃亏的只能是自己！所以说最好的方案就是自己时刻把控主动权！能走第三方担保交易平台担保的的尽量不直接转账。
+## What is Muggle Guarantee?
 
-<p align="center">
-  <img src="https://dcdn.mugglepay.com/pay/danbao/why2.png" width="50%" />
-</p>
+Muggle Guarantee is the world's first third-party escrow services platform for digital currencies, dedicated to resolving the trust issues of whether to make payment or deliver goods first in online transactions. It aims to make online transactions safer and prevent scammers from taking advantage of any opportunities on a fair and impartial third-party escrow services platform.
 
-道理大家都懂！但是很多时候还是我们还是那么容易上当受骗！不是因为我们不知道，只是因为我们别无选择！很多骗子采用匿名信息，也无法通过法律途径解决问题。只有通过制度性建设才能做到让恶人想做恶都难的效果。
+<b>Mugglebao Escrow Trading Platform</b> is the first platform globally to offer escrow services for users' digital currencies.
 
+- Muggle Guarantee provides personalized escrow services services tailored to users' needs. Everything is based on users' pre-agreed terms, guided by the spirit of contracts. Every person has their unique personalized escrow services requirements. For example, if I want to share a rental property and directly contact the seller through a forum, we may be very satisfied with the service and price. However, we can't agree on whether to make payment first or use the property first. Often, users find the seller has disappeared after making the payment. The low entry barrier in the industry leads to uneven participation by various institutions, resulting in a lack of protection. This problem is prevalent not only in traditional buying and selling transactions but also in many online services.
 
-## 用支某宝、PayPal担保？
+- Muggle Guarantee makes your digital currencies more secure. There are numerous cases of digital currency fraud in emails and WeChat. Even FCOIN has been categorized as fraudulent, yet the victims cannot recover their rights. Mugglebao has years of experience in the field of digital currencies, with millions of users covered each month, providing security for your digital assets.
 
-很多网友会问担保交易不是有支某宝吗？没错，但是不知道您有没有发现，支某宝只为阿里旗下的产品提供担保交易。我们通过支某宝转账交易支某宝是不提供担保服务的。也就是说支某宝只为淘宝天猫等产品提供担保交易服务。不是每个人都有淘宝店铺的，天猫店铺就根本用说了。而且我们很多的需求都是低频的，而且淘宝担保交易都是规范化的流程，只有出现纠纷之后客服才介入。很多淘宝既定的规则都不适用，如果照搬淘宝用户协议！不是卖家吃亏就是买家吃亏。
+- Protecting privacy online. By safeguarding the privacy of both buyers and sellers, trust is established in online transactions. Perhaps you can earn $10 by completing a task online, but you don't want to disclose your email or Paypal account associated with your phone number or reveal your PayPal email. What's more, the opposite party may run off after receiving the payment. This is where you should use Muggle Guarantee services.
 
-<p align="center">
-  <img src="https://dcdn.mugglepay.com/pay/danbao/why4.png" width="75%" />
-</p>
+Remember: If you directly transfer money online to a stranger, there is a 99% chance of a run-off risk!
 
-目前的华人担保交易市场支某宝一家独大！而支某宝却又只为阿里巴巴旗下平台提供担保交易服务。而且很多人在网上跟老外做生意，支某宝难以保证我们的利益。导致我们很多个性化的担保交易需求无法满足，这才给了骗子的以可乘之机！然而这一局面即将改变！
+If there are risks in online transactions, use Muggle Guarantee!"
 
-## 什么是麻瓜担保？
-
-麻瓜担保是全球首家数字货币第三方担保交易平台，致力于解决网络交易中，买卖双方是先付款还是先交货的的信任问题。让网络交易更安全，让骗子无机可乘公平公正第三方担保交易平台。
-
-
-<p align="center">
-  <img src="https://dcdn.mugglepay.com/pay/danbao/why3.png" width="75%" />
-</p>
-
-
-
-<b>麻瓜宝担保交易平台</b> 是全球第一家为用户提供数字货币担保交易服务的平台。
-
-- 麻瓜担保交易则为用户提供私人定制的个性化担保交易需求。一切以用户事先约定为基准。以契约精神为主要指导思想！千人千面，每个人都有自己的个性化担保交易需求。比如说我想合租，通过论坛直接联系上了卖家。对于服务和价格我们都非常满意，但是这个时候对于合租是先付款还是先使用的问题，买卖双方怎么都谈不拢！经常用户付款后发现卖家跑路了！行业门槛低从业机构参差不齐！还是缺乏保障！买卖很多在线服务也是同样的问题！
-
-- 麻瓜担保交易让您的数字货币更安全。不管是邮件、微信中，有许许多多的数字货币诈骗案。即使是FCOIN定型为诈骗案，受害者们依然无法获得自己的自身权益。麻瓜宝已在数字货币领域多年经验，每月覆盖的用户数千万，为您的数字资产保驾护航。
-
-- 在线保护隐私。在保护买卖双方的隐私下，建立网上交易的信任。也许你在网上做一个任务可以获得10美金。但是你不想把自己邮箱或者手机号的支付宝账户告知，也不想泄漏自己的Paypal邮箱。更重要的是，对方可能收了钱就跑了。这时候你就该使用麻瓜担保服务。
-
-记住: 如果你网上直接转账给一个陌生人，99%都存在跑路风险！
-
-网上交易有风险就使用麻瓜担保！
-
-
+Please note that the translation provided might not be perfect and may require further editing for specific contexts or usage.

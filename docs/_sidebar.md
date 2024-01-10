@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
-* [什么是数字货币担保交易？](/)
-* [付款方式及费率](fee.md)
-* [交易流程图文](guide.md)
-* [交易类别](category.md)
-* [联系我们](contact.md)
+* [🇺🇸What is escrow services?](/)
+* [🇺🇸Supported Categories](category.md)
+* [🇺🇸Contact Us](contact.md)
+* [🇭🇰什么是加密货币担保交易？](/README_cn.md)
+* [🇭🇰交易类别](category_cn.md)
+* [🇭🇰联系我们](contact_cn.md)
